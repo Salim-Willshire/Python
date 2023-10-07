@@ -1,4 +1,4 @@
-This Python project is an essential step in my journey to optimize my competitive pricing strategy. Its primary function is to scrape and retrieve product prices from my competitors' websites.
+This Python project is an essential step in my journey to optimise my competitive pricing strategy. Its primary function is to scrape and retrieve product prices from my competitors' websites.
 
 With a simple yet effective design, the tool efficiently gathers pricing data, laying the foundation for future enhancements. As I continue to learn and expand my Python skills, I aim to develop additional features that will include listing and exporting the collected prices to an Excel file, aligning them with my current pricing data.
 
